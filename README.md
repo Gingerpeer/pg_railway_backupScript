@@ -1,1 +1,1 @@
-# pg_railway_backupScript
+# Postgresql Railway Backup Script
